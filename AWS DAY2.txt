@@ -1,0 +1,6 @@
+1. Explore diff types of load balancers ?
+2.TAKE 2 EC2'S LAUNCH same application like http .. check if app works on both ip's -it will work
+3. create load balancer come to edit instances add both instances and save status- will be in service after 5mins,
+if u browse load balancer's dns(till .com) if u browse same app should be launched now.. that means through lb u r accessing app
+4.What is vertical and horizantal scaling?
+5. Auto scaling --> creating Autoscaling giving min and max machines , manually we r giving more requests so automatically servers should be added
